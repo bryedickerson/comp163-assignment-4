@@ -11,3 +11,5 @@ print(f"Current GPA: {current_gpa:.2f}")
 print(f"Study hours: {study_hours}")
 print(f"Social Points: {social_points}")
 print(f"Stress Level: {stress_level}")
+
+# This is my code for the first test case
